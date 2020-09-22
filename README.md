@@ -1,2 +1,4 @@
 # seyonrajagopal.ca
- New Portfolio Website for Seyon Rajagopal.
+ This is the new Portfolio Website for Seyon Rajagopal.
+
+![Website Preview](assets/images/portfolio.png)

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "My Website",
+    "info": "This is my personal website. I wanted to create a fully responsive and interactive website where I can show my projects and let others get to know more about me. This is how it turned out.",
+    "image": "portfolio.png",
+    "demoLink": "https://seyonrajagopal.ca",
+    "githubLink": "https://github.com/seyon123/seyonrajagopal.ca",
+    "languages": [
+      "fa-html5",
+      "fa-css3",
+      "fa-js"
+    ]
+  },
+  {
+    "name": "List GitHub Repos",
+    "info": "List GitHub Repos is a website that lists all of a users GitHub repos onto a webpage. It presents the Github repos in a nice list format which can be added to a website to display a users GitHub repositories. The js file can be taken and easily integreated into other websites.",
+    "image": "github.png",
+    "demoLink": "https://repos.seyonrajagopal.ca/",
+    "githubLink": "https://github.com/seyon123/list-github-repos/",
+    "languages": [
+      "fa-html5",
+      "fa-css3",
+      "fa-js"
+    ]
+  }
+]
