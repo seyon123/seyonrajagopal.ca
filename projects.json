@@ -12,15 +12,26 @@
     ]
   },
   {
-    "name": "List GitHub Repos",
-    "info": "List GitHub Repos is a website that lists all of a users GitHub repos onto a webpage. It presents the Github repos in a nice list format which can be added to a website to display a users GitHub repositories. The js file can be taken and easily integreated into other websites.",
+    "name": "Find Me Food",
+    "info": "Find Me Food is an app that chooses a restaurant to eat at for you whether you are looking to try something new, just want to eat out, or having trouble choosing. This was my first Android App and is still a work in Progress with more features to come.",
+    "image": "findmefood.png",
+    "githubLink": "https://github.com/seyon123/Find-Me-Food",
+    "languages": [
+      "fa-java",
+      "fa-android" 
+    ]
+  },
+  {
+    "name": "GitHub Profiles",
+    "info": "This project is a continuation of a previous project called list github repos which listed GitHub repos in a nicely formatted way. GitHub Profiles is built on React and includes alot more features. GitHub Profiles allows you to search up a github user by their username and shows you thier profile info and their repos.",
     "image": "github.png",
-    "demoLink": "https://repos.seyonrajagopal.ca/",
-    "githubLink": "https://github.com/seyon123/list-github-repos/",
+    "demoLink": "https://seyon123-github-profiles.netlify.app/",
+    "githubLink": "https://github.com/seyon123/GitHub-Profiles",
     "languages": [
       "fa-html5",
       "fa-css3",
-      "fa-js"
+      "fa-js",
+      "fa-react"
     ]
   }
 ]
