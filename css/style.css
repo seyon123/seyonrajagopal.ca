@@ -137,7 +137,7 @@ i {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  width: 40%;
+  width: 50%;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -486,6 +486,7 @@ i {
 .project-info p {
   line-height: 1.7;
   min-height: 250px;
+  margin-right: 10px;
 }
 
 .project-links {
@@ -559,6 +560,7 @@ i {
   display: -ms-flexbox;
   display: flex;
   margin: 10px;
+  margin-left: auto;
 }
 
 .languages i {
@@ -566,7 +568,7 @@ i {
 }
 
 .languages i:not(.fa-node-js) {
-  margin-right: 14px;
+  margin-left: 14px;
 }
 
 .languages i.fab {
@@ -964,10 +966,10 @@ footer a {
   }
   .nav-links {
     position: fixed;
+    top: 0;
     background: var(--grey);
-    height: 100vh;
+    height: 100%;
     width: 100%;
-    margin-top: 46.5vh;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
@@ -977,16 +979,17 @@ footer a {
     -webkit-transition: all 1s ease-out;
     transition: all 1s ease-out;
     pointer-events: none;
-    padding: 200px 0;
+    padding: 250px 0;
   }
   .nav-links.open {
-    clip-path: circle(1000px at 90% -10%);
-    -webkit-clip-path: circle(1000px at 90% -10%);
+    clip-path: circle(150vh at 90% -10%);
+    -webkit-clip-path: circle(150vh at 90% -10%);
     pointer-events: all;
   }
   .nav-links li {
     font-size: 25px;
     font-weight: 600;
+    margin: 10px;
     opacity: 0;
   }
   .nav-links li a {
