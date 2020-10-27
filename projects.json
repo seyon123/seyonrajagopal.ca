@@ -1,5 +1,13 @@
 [
     {
+        "name": "COVID-19 Tracker",
+        "info": "This project was made to track and visualize the spread of COVID-19. COVID-19 Tracker shows data for many countries from trusted data sources such as Johns Hopkins University & Worldometers. Users can find data for various countries and regions easily through this app.",
+        "image": "covid.png",
+        "demoLink": "https://covid19.seyonrajagopal.ca/",
+        "githubLink": "https://github.com/seyon123/covid-tracker",
+        "languages": ["fa-html5", "fa-css3", "fa-js", "fa-react"]
+    },
+    {
         "name": "My Website",
         "info": "This is my personal website. I wanted to create a fully responsive and interactive website where I can show my projects and let others get to know more about me. This is how it turned out.",
         "image": "portfolio.png",
@@ -11,8 +19,8 @@
         "name": "Find Me Food",
         "info": "Find Me Food is an app that chooses a restaurant to eat at for you whether you are looking to try something new, just want to eat out, or having trouble choosing. This was my first Android App and is still a work in Progress with more features to come.",
         "image": "findmefood.png",
-		"demoLink": "https://go.seyonrajagopal.ca/findmefood",
-		"githubLink": "https://github.com/seyon123/Find-Me-Food",
+        "demoLink": "https://go.seyonrajagopal.ca/findmefood",
+        "githubLink": "https://github.com/seyon123/Find-Me-Food",
         "languages": ["fa-java", "fa-android"]
     },
     {

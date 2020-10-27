@@ -337,7 +337,6 @@ i {
           align-items: center;
   padding: 0 120px;
   margin-top: 150px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .about-content p {
@@ -616,7 +615,6 @@ i {
 .chat p {
   line-height: 1.5;
   font-size: 1rem;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .contact-form {
@@ -650,12 +648,14 @@ i {
   grid-area: textarea / textarea / textarea / textarea;
 }
 
+
 .contact-form .form-btn {
   -ms-grid-column-align: end;
       justify-self: end;
   width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content;
+  height: 50px !important;
   grid-area: button / button / button / button;
   color: var(--white);
   height: auto;
@@ -742,7 +742,6 @@ footer p {
   line-height: 1.6;
   font-size: 1.1rem;
   color: var(--white);
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
 }
 
@@ -1067,8 +1066,13 @@ footer a {
   #modeToggle {
     font-size: 2.2rem;
   }
+
+  .contact-form .form-btn {
+    width: 100%;
+  }
+
   .contact-form {
-        grid-template-areas: 'email email' 'name name' 'textarea textarea' '. button';
+    grid-template-areas: 'email email' 'name name' 'textarea textarea' 'button button';
   }
 }
 
