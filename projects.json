@@ -8,12 +8,12 @@
         "languages": ["fa-html5", "fa-css3", "fa-js", "fa-react"]
     },
     {
-        "name": "My Website",
-        "info": "This is my personal website. I wanted to create a fully responsive and interactive website where I can show my projects and let others get to know more about me. This is how it turned out.",
-        "image": "portfolio.png",
-        "demoLink": "https://seyonrajagopal.ca",
-        "githubLink": "https://github.com/seyon123/seyonrajagopal.ca",
-        "languages": ["fa-html5", "fa-css3", "fa-js"]
+        "name": "Movie Finder",
+        "info": "A web app created in React that allows a user to search for movies and find movies with certain filters such as genre, popularity, and year. This app is a continuation and improvement of a previous project <a href='https://github.com/seyon123/Movie-Search' target='_blank' rel='noopener noreferrer'>Movie-Search</a>.",
+        "image": "movie.png",
+        "demoLink": "https://movie-finder.seyonrajagopal.ca/",
+        "githubLink": "https://github.com/seyon123/movie-finder",
+        "languages": ["fa-html5", "fa-css3", "fa-js", "fa-react"]
     },
     {
         "name": "Find Me Food",
@@ -25,7 +25,7 @@
     },
     {
         "name": "GitHub Profiles",
-        "info": "This project is a continuation of a previous project called list github repos which listed GitHub repos in a nicely formatted way. GitHub Profiles is built on React and includes alot more features. GitHub Profiles allows you to search up a github user by their username and shows you thier profile info and their repos.",
+        "info": "This project is a continuation of a previous project called <a href='https://github.com/seyon123/list-github-repos' target='_blank' rel='noopener noreferrer'>list-github-repos</a> which listed GitHub repos in a nicely formatted way. GitHub Profiles is built on React and includes alot more features. GitHub Profiles allows you to search up a github user by their username and shows you thier profile info and their repos.",
         "image": "github.png",
         "demoLink": "https://seyon123-github-profiles.netlify.app/",
         "githubLink": "https://github.com/seyon123/GitHub-Profiles",

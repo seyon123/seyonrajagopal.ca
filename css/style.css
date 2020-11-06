@@ -488,6 +488,16 @@ i {
   margin-right: 10px;
 }
 
+.project-info p a {
+  text-decoration: none;
+  color: var(--head-light);
+  font-weight: bold;
+}
+
+.project-info p a:hover {
+  text-decoration: underline;
+}
+
 .project-links {
   display: -webkit-box;
   display: -ms-flexbox;
