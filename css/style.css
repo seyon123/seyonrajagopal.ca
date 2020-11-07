@@ -296,6 +296,11 @@ i {
   transition: all 200ms ease;
 }
 
+.resumeBtn i {
+  font-size: 20px;
+  margin-right: 5px;
+}
+
 .resumeBtn:hover {
   transform: scale(1.1);
 }
