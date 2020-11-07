@@ -279,6 +279,27 @@ i {
   position: relative;
 }
 
+.resumeBtn {
+  width: fit-content;
+  text-decoration: none;
+  color: var(--white);
+  font-size: 18px;
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  padding: 20px;
+  background: var(--gradient);
+  border-radius: 50px;
+  -webkit-transition: all 200ms ease;
+  transition: all 200ms ease;
+}
+
+.resumeBtn:hover {
+  transform: scale(1.1);
+}
+
 .class {
   background: var(--grey);
   padding: 30px 25px 35px;
