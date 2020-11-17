@@ -169,6 +169,7 @@ async function getProjects() {
               <h2>${name}</h2>
               <p>${info}</p>
               <div class="project-links">
+              <div>
               ${
                   demoLink
                       ? `<a href="${demoLink}" class="demo" target="_blank" rel="noopener noreferrer">Live
@@ -176,7 +177,8 @@ async function getProjects() {
                       : ""
               }
                 <a href="${githubLink}" target="_blank" class="github" rel="noopener noreferrer"><i
-					class="fab fa-github"></i></a>
+                    class="fab fa-github"></i></a>
+                    </div>
 					<div class="languages">
 					${languages
 						.map((language) => `<i class="fab ${language}"></i>`)

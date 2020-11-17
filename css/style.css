@@ -189,7 +189,6 @@ i {
 
 #home {
   width: 100%;
-  margin-bottom: -100px;
   min-height: 100vh;
 }
 
@@ -279,16 +278,18 @@ i {
   position: relative;
 }
 
+.resume {
+  display: grid;
+  place-items: center;
+
+}
+
 .resumeBtn {
   width: fit-content;
   text-decoration: none;
   color: var(--white);
   font-size: 18px;
   font-weight: bold;
-  position: absolute;
-  left: 0;
-  right: 0;
-  margin: auto;
   padding: 20px;
   background: var(--gradient);
   border-radius: 50px;
@@ -600,10 +601,8 @@ i {
 
 .languages i {
   font-size: 24px;
-}
-
-.languages i:not(.fa-node-js) {
   margin-left: 14px;
+  margin-right: 14px;
 }
 
 .languages i.fab {
@@ -880,7 +879,7 @@ footer a {
   }
   .skills-icons {
     width: 95%;
-    margin-left: 15px;
+    
   }
   .skills-icons .fab {
     font-size: 50px;
@@ -1119,5 +1118,29 @@ footer a {
   }
   .no-script noscript {
     padding: 25px;
+  }
+
+  .description h1 {
+    font-size: 2.1rem;
+  }
+
+  .project-links{
+    flex-direction: column;
+  }
+
+  .demo {
+    margin: 0;
+  }
+
+  .languages {
+    margin: 20px; 
+  }
+
+  .languages i {
+    text-align: center;
+  }
+
+  footer p {
+    font-size: 0.9rem;
   }
 }
