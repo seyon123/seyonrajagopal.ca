@@ -3,7 +3,7 @@
         "name": "COVID-19 Tracker",
         "info": "This project was made to track and visualize the spread of COVID-19. COVID-19 Tracker shows data for many countries from trusted data sources such as Johns Hopkins University & Worldometers. Users can find data for various countries and regions easily through this app.",
         "image": "covid.png",
-        "demoLink": "https://covid19.seyonrajagopal.ca/",
+        "demoLink": "https://letstrackcovid.web.app/",
         "githubLink": "https://github.com/seyon123/covid-tracker",
         "languages": ["fa-html5", "fa-css3", "fa-js", "fa-react"]
     },
@@ -11,7 +11,7 @@
         "name": "Movie Finder",
         "info": "A web app created in React that allows a user to search for movies and find movies with certain filters such as genre, popularity, and year. This app is a continuation and improvement of a previous project <a href='https://github.com/seyon123/Movie-Search' target='_blank' rel='noopener noreferrer'>Movie-Search</a>.",
         "image": "movie.png",
-        "demoLink": "https://movie-finder.seyonrajagopal.ca/",
+        "demoLink": "https://z-flix.web.app/",
         "githubLink": "https://github.com/seyon123/movie-finder",
         "languages": ["fa-html5", "fa-css3", "fa-js", "fa-react"]
     },
@@ -27,7 +27,7 @@
         "name": "GitHub Profiles",
         "info": "This project is a continuation of a previous project called <a href='https://github.com/seyon123/list-github-repos' target='_blank' rel='noopener noreferrer'>list-github-repos</a> which listed GitHub repos in a nicely formatted way. GitHub Profiles is built on React and includes alot more features. GitHub Profiles allows you to search up a github user by their username and shows you thier profile info and their repos.",
         "image": "github.png",
-        "demoLink": "https://seyon123-github-profiles.netlify.app/",
+        "demoLink": "https://gitprofiles.web.app/",
         "githubLink": "https://github.com/seyon123/GitHub-Profiles",
         "languages": ["fa-html5", "fa-css3", "fa-js", "fa-react"]
     }
