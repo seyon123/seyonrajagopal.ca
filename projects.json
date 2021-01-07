@@ -1,5 +1,13 @@
 [
 	{
+		"name": "TTC Arrivals",
+		"info": "TTC Arrivals helps provide real-time transit info for TTC buses and streetcars to users. Real-time info includes arrival times, scheduling, routes, and live GPS location of busses and streetcars. Users can use the interactive map to find nearby stops and be informed on arrival times.",
+		"image": "ttc.png",
+		"demoLink": "https://ttcarrivals.web.app/",
+		"githubLink": "https://github.com/seyon123/ttc-arrivals",
+		"languages": ["fa-html5", "fa-css3", "fa-js", "fa-react"]
+	},
+	{
 		"name": "COVID-19 Tracker",
 		"info": "This project was made to track and visualize the spread of COVID-19. COVID-19 Tracker shows data for many countries from trusted data sources such as Johns Hopkins University & Worldometers. Users can find data for various countries and regions easily through this app.",
 		"image": "covid.png",
@@ -9,7 +17,7 @@
 	},
 	{
 		"name": "ReactShop - Shopping Application",
-		"info": "ReactShop is a web app created with React that allows users to shop for items. Users of this app can simulate purchasing items like real users with a working cart, order history, and a checkout page incorporating Stripe. This app is similar to the popular shopping platform Amazon.",
+		"info": "ReactShop is a web app created with React that allows users to shop for items. Users of this app can simulate purchasing items like real users with a working cart, order history, and a checkout page incorporating Stripe. This mock shopping app is similar to the popular shopping platform Amazon.",
 		"image": "shopping.png",
 		"demoLink": "https://reactshoppy.web.app/",
 		"githubLink": "https://github.com/seyon123/shopping-app",
@@ -17,7 +25,7 @@
 	},
 	{
 		"name": "Reacttagram - Social Media Application",
-		"info": "Reacttagram is a web app created with React that allows users to create and interact with posts like many social media platforms. Users of this app can create, like, and comment on posts with the addition of profile pages with user posts. This app is similar to the popular social media platform Instagram.",
+		"info": "Reacttagram is a web app created with React that allows users to create and interact with posts like many social media platforms. Users of this app can create, like, and comment on posts with the addition of profile pages with user posts. This mock social media app is similar to the popular social media platform Instagram.",
 		"image": "reacttagram.png",
 		"demoLink": "https://reacttagram.web.app/",
 		"githubLink": "https://github.com/seyon123/social-media-app",
@@ -25,7 +33,7 @@
 	},
 	{
 		"name": "Message Me - Chat Application",
-		"info": "Message Me is a web app created with React that allows users to chat in public rooms. Users of this app can create public rooms and chat with everyone about various topics. This app is similar to the popular messaging app Discord.",
+		"info": "Message Me is a web app created with React that allows users to chat in public rooms. Users of this app can create public rooms and chat with everyone about various topics. This mock chat app is similar to the popular messaging app Discord.",
 		"image": "chat.png",
 		"demoLink": "https://reactachat.web.app/",
 		"githubLink": "https://github.com/seyon123/chat-app",
